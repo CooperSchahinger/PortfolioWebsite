@@ -11,6 +11,10 @@
   text-align: center;
   color: whitesmoke;
 }
+
+.header {
+  color: purple;
+}
 </style>
 
 <script>

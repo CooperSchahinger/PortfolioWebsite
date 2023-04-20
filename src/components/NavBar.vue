@@ -9,6 +9,7 @@
 #nav {
   padding: 30px;
   font-weight: bold;
+  text-align: center;
 }
 
 #nav a {
