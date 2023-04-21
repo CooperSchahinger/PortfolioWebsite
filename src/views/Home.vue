@@ -13,7 +13,7 @@
       <br>
       <br>
 
-      <h3 class="header">PROFESSIONAL_SUMMERY</h3>
+      <h3 class="header">PROFESSIONAL SUMMARY</h3>
 
       <br>
 
